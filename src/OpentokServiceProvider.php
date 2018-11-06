@@ -3,7 +3,7 @@
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 use OpenTok\OpenTok;
 
-class ServiceProvider extends BaseServiceProvider {
+class OpentokServiceProvider extends BaseServiceProvider {
 
     /**
      * Bootstrap the application services.
