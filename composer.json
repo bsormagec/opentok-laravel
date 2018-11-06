@@ -27,7 +27,7 @@
                 "Sormagec\\OpentokLaravel\\OpentokServiceProvider"
             ],
             "aliases": {
-                "FFMpeg": "Sormagec\\OpentokLaravel\\OpentokFacade"
+                "Opentok": "Sormagec\\OpentokLaravel\\OpentokFacade"
             }
         }
     },
