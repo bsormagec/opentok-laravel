@@ -21,6 +21,16 @@
             "Sormagec\\OpentokLaravel\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sormagec\\OpentokLaravel\\OpentokServiceProvider"
+            ],
+            "aliases": {
+                "FFMpeg": "Sormagec\\OpentokLaravel\\OpentokFacade"
+            }
+        }
+    },
     "minimum-stability": "dev"
 }
  
